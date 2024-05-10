@@ -40,7 +40,7 @@ program
             response.data.pipe(writer);
 
             writer.on('finish', () => {
-                console.log(chalk.green("Downloaded successfully!"));
+                console.log(chalk.green("Downloaded successfully!", `Saved to ${path}`));
             });
 
             writer.on('error', (err) => {
