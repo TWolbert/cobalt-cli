@@ -1,5 +1,5 @@
 # Cobalt unofficial CLI
-![Cobalt Banner](banner.png)
+![Cobalt Banner](https://github.com/TWolbert/cobalt-cli/blob/main/banner.png?raw=true)
 
 I made this because of a [tweet](https://x.com/justusecobalt/status/1788828537908068668) on the [Cobalt Twitter Account](https://twitter.com/justusecobalt)
 
