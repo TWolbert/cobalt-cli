@@ -7,11 +7,11 @@
     "url": "https://github.com/TWolbert/cobalt-cli"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Like I'm gonna write tests for this\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Teun Wolbert of WBLT bv",
+  "license": "BSD-3-Clause",
+  "description": "A CLI for https://cobalt.tools/",
   "dependencies": {
     "axios": "^1.6.8",
     "chalk": "^5.3.0",
