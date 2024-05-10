@@ -1,7 +1,7 @@
 # Cobalt unofficial CLI
 ![Cobalt Banner](banner.png)
 
-I made this because of a [tweet](https://x.com/justusecobalt/status/1788828537908068668) the [Cobalt Twitter Account](https://twitter.com/justusecobalt)
+I made this because of a [tweet](https://x.com/justusecobalt/status/1788828537908068668) on the [Cobalt Twitter Account](https://twitter.com/justusecobalt)
 
 ## installation
 
