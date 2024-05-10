@@ -25,7 +25,6 @@ idk, I don't use yarn get real
 
 ## Usage
 ```
-```
 cobalt -l <link> -o <output file>
 ```
 For example:
