@@ -7,17 +7,17 @@ I made this because of a [tweet](https://x.com/justusecobalt/status/178882853790
 
 ### NPM
 ```
-npm i -g cobalt-cli
+npm i -g cli-cobalt
 ```
 
 ### PNPM
 ```
-pnpm i -g cobalt-cli
+pnpm i -g cli-cobalt
 ```
 
 ### Bun
 ```
-bun i -g cobalt-cli
+bun i -g cli-cobalt
 ```
 
 ### Yarn
