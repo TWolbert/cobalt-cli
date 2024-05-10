@@ -35,7 +35,7 @@ program
         api.get(streamUrl, {
             responseType: 'stream'
         }).then(response => {
-            const path = `${__dirname}/${options.output}`
+            const path = `${process.cwd()}/${options.output}`
             const writer = fs.createWriteStream(path);
             response.data.pipe(writer);
 
